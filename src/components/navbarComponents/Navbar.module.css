@@ -1,0 +1,68 @@
+.navbar-container {
+  height: 100vh;
+  width: 100px;
+  position: fixed;
+  background-color: black;
+  color: white;
+  z-index: 5;
+}
+
+.navbar-container ul {
+  list-style-type: none;
+}
+
+.navbar-container li {
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about {
+  position: absolute;
+  left: 100px;
+  width: 200px;
+  background-color: #3c006c;
+  height: 90px;
+  top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  padding: 1rem;
+  font-size: 1.5em;
+  /* display: none; */
+  display: block;
+  visibility: hidden;
+  line-height: 90px;
+  padding: 0;
+  padding-left: 1rem;
+  /* transition: all ease 1s; */
+}
+
+.li-container:hover {
+  background-color: #3c006c;
+}
+
+.li-container:hover .about {
+  /* display: block; */
+  visibility: visible;
+}
+
+.projects {
+  top: calc(0.5rem + 90px);
+}
+
+.contact {
+  top: calc(0.5rem + 180px);
+}
+
+.linkedin,
+.github {
+  fill: white;
+}
+
+.linkedin:hover,
+.github:hover {
+  fill: #f1dfff;
+}
