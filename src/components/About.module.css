@@ -1,4 +1,9 @@
 .container {
   height: 100vh;
   background-color: #deb1dd;
+  margin-left: 100px;
+}
+
+.content {
+  
 }
