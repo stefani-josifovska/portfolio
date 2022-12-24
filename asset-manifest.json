@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9deb847f.css",
+    "main.css": "/portfolio/static/css/main.d97a8208.css",
     "main.js": "/portfolio/static/js/main.97906a9c.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/cassandra_logo_grayscale.png": "/portfolio/static/media/cassandra_logo_grayscale.838aa4b6458dff1c02d7.png",
@@ -23,12 +23,12 @@
     "static/media/spain.png": "/portfolio/static/media/spain.7ab20088ad372c62ab72.png",
     "static/media/germany.png": "/portfolio/static/media/germany.cc670a050b591bf6656d.png",
     "index.html": "/portfolio/index.html",
-    "main.9deb847f.css.map": "/portfolio/static/css/main.9deb847f.css.map",
+    "main.d97a8208.css.map": "/portfolio/static/css/main.d97a8208.css.map",
     "main.97906a9c.js.map": "/portfolio/static/js/main.97906a9c.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9deb847f.css",
+    "static/css/main.d97a8208.css",
     "static/js/main.97906a9c.js"
   ]
 }
