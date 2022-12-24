@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.000ec872.css",
-    "main.js": "/portfolio/static/js/main.47017ac3.js",
+    "main.css": "/portfolio/static/css/main.9deb847f.css",
+    "main.js": "/portfolio/static/js/main.97906a9c.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/cassandra_logo_grayscale.png": "/portfolio/static/media/cassandra_logo_grayscale.838aa4b6458dff1c02d7.png",
     "static/media/css_logo_grayscale.png": "/portfolio/static/media/css_logo_grayscale.99a00ec5f26f2a79bdeb.png",
@@ -13,15 +13,22 @@
     "static/media/bootstrap_logo_grayscale.png": "/portfolio/static/media/bootstrap_logo_grayscale.7c17f34efbe6a1ef8bda.png",
     "static/media/python_logo_grayscale.png": "/portfolio/static/media/python_logo_grayscale.694729f140168571aea8.png",
     "static/media/vue_logo_grayscale.png": "/portfolio/static/media/vue_logo_grayscale.0a48cb305c540b0a686a.png",
+    "static/media/macedonia.png": "/portfolio/static/media/macedonia.ab1171efef4d71487737.png",
     "static/media/postgre_logo_grayscale.png": "/portfolio/static/media/postgre_logo_grayscale.35404366fe0bc340b821.png",
+    "static/media/united-states.png": "/portfolio/static/media/united-states.4d9d990626a3df96a265.png",
+    "static/media/serbia.png": "/portfolio/static/media/serbia.6c08d42318d8ab7228d7.png",
     "static/media/js_logo_grayscale.png": "/portfolio/static/media/js_logo_grayscale.d0211fe63dbae008f92c.png",
+    "static/media/slovenia.png": "/portfolio/static/media/slovenia.78b032b40013cc96bfbb.png",
+    "static/media/russia.png": "/portfolio/static/media/russia.e314a09bbab1844bfaea.png",
+    "static/media/spain.png": "/portfolio/static/media/spain.7ab20088ad372c62ab72.png",
+    "static/media/germany.png": "/portfolio/static/media/germany.cc670a050b591bf6656d.png",
     "index.html": "/portfolio/index.html",
-    "main.000ec872.css.map": "/portfolio/static/css/main.000ec872.css.map",
-    "main.47017ac3.js.map": "/portfolio/static/js/main.47017ac3.js.map",
+    "main.9deb847f.css.map": "/portfolio/static/css/main.9deb847f.css.map",
+    "main.97906a9c.js.map": "/portfolio/static/js/main.97906a9c.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.000ec872.css",
-    "static/js/main.47017ac3.js"
+    "static/css/main.9deb847f.css",
+    "static/js/main.97906a9c.js"
   ]
 }
