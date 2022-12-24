@@ -56,5 +56,5 @@
 
 .flag-container img:hover {
   opacity: 1;
-  height: 70%;
+  transform: scale(1.3);
 }
