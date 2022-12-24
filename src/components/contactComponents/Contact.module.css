@@ -32,3 +32,29 @@
 .form-container form textarea {
   background-color: #dda2cb;
 }
+
+.lang-section {
+  height: 10vh;
+  width: 70vw;
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: 'Kalam', cursive;
+}
+
+.flag-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: min(3%,2rem);
+}
+
+.flag-container img {
+  height: 60%;
+  opacity: 0.7;
+}
+
+.flag-container img:hover {
+  opacity: 1;
+  height: 70%;
+}
