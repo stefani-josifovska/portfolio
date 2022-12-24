@@ -4,7 +4,7 @@ import Navbar from "./components/navbarComponents/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import Projects from "./components/Projects";
-import Contact from "./components/Contact";
+import Contact from "./components/contactComponents/Contact";
 
 function App() {
   const aboutRef = useRef(null);
@@ -23,9 +23,9 @@ function App() {
         scrollToCont={scrollToContacts}
       />
       <Hero scrollToAbt={scrollToAbout} />
-      <About ref={aboutRef} />
-      <Projects ref={projectsRef} />
-      <Contact ref={contactRef} />
+      <About innerRef={aboutRef} />
+      <Projects innerRef={projectsRef} />
+      <Contact innerRef={contactRef} />
     </>
   );
 }

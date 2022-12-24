@@ -1,5 +1,9 @@
 // Override default variables before the import
-$body-bg: #000;
+// $body-bg: #000;
 
 // Import Bootstrap and its default variables
-@import '~bootstrap/scss/bootstrap.scss';
+@import "../node_modules/bootstrap/scss/functions";
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+// $input-focus-bg: #9999fb;
+// $input-color: red;
