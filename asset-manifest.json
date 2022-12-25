@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d97a8208.css",
-    "main.js": "/portfolio/static/js/main.97906a9c.js",
+    "main.css": "/portfolio/static/css/main.f1e7fa10.css",
+    "main.js": "/portfolio/static/js/main.4ca1194e.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/cassandra_logo_grayscale.png": "/portfolio/static/media/cassandra_logo_grayscale.838aa4b6458dff1c02d7.png",
+    "static/media/sneakers.png": "/portfolio/static/media/sneakers.51bd8378d288b2ba3c90.png",
+    "static/media/audiophile.png": "/portfolio/static/media/audiophile.e623b897332b903a4631.png",
+    "static/media/rock-paper-scissors.png": "/portfolio/static/media/rock-paper-scissors.d702135ab8208e189fe1.png",
     "static/media/css_logo_grayscale.png": "/portfolio/static/media/css_logo_grayscale.99a00ec5f26f2a79bdeb.png",
     "static/media/cpp_logo_grayscale.png": "/portfolio/static/media/cpp_logo_grayscale.0efa3e52248c3e823dff.png",
     "static/media/tailwind_logo_grayscale.png": "/portfolio/static/media/tailwind_logo_grayscale.032b51de378310a553b5.png",
     "static/media/mongo_logo_grayscale.png": "/portfolio/static/media/mongo_logo_grayscale.f9493a0077cda0dfd35e.png",
+    "static/media/bookmark.png": "/portfolio/static/media/bookmark.9118e2820de1ae37a971.png",
+    "static/media/countries.png": "/portfolio/static/media/countries.7e66222a0afc6065ebe1.png",
     "static/media/react_logo_grayscale.png": "/portfolio/static/media/react_logo_grayscale.a1b541e6f763de36d506.png",
     "static/media/mysql_logo_grayscale.png": "/portfolio/static/media/mysql_logo_grayscale.9e392bf0b8c7e08bcc96.png",
     "static/media/bootstrap_logo_grayscale.png": "/portfolio/static/media/bootstrap_logo_grayscale.7c17f34efbe6a1ef8bda.png",
@@ -23,12 +28,12 @@
     "static/media/spain.png": "/portfolio/static/media/spain.7ab20088ad372c62ab72.png",
     "static/media/germany.png": "/portfolio/static/media/germany.cc670a050b591bf6656d.png",
     "index.html": "/portfolio/index.html",
-    "main.d97a8208.css.map": "/portfolio/static/css/main.d97a8208.css.map",
-    "main.97906a9c.js.map": "/portfolio/static/js/main.97906a9c.js.map",
+    "main.f1e7fa10.css.map": "/portfolio/static/css/main.f1e7fa10.css.map",
+    "main.4ca1194e.js.map": "/portfolio/static/js/main.4ca1194e.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d97a8208.css",
-    "static/js/main.97906a9c.js"
+    "static/css/main.f1e7fa10.css",
+    "static/js/main.4ca1194e.js"
   ]
 }
