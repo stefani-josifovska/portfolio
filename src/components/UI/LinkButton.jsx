@@ -8,7 +8,16 @@ const LinkButton = ({ link, text }) => {
 
   return (
     <button className={classes["button-link"]} onClick={onOpenLinkHandler}>
-      {text}
+      <div>
+        <span className="d-flex justify-content-center">
+          {text}
+        </span>
+      </div>
+      <div>
+        <span className="d-flex justify-content-center">
+          Visit
+        </span>
+      </div>
     </button>
   );
 };

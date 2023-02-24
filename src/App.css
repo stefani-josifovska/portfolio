@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+h2,
+h3 {
+  font-family: "Kalam", cursive;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+h3 {
+  font-size: 2.1em;
+}
+
+h4 {
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: light;
+  font-size: 1em;
+  src: url("./fonts/Roboto-Regular.ttf") format("truetype");
+}

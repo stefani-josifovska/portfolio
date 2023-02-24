@@ -5,5 +5,27 @@
 }
 
 .content {
-  
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-family: 'Roboto';
+}
+
+.my-img {
+  background: url("../images/tablo.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.skills-wrap {
+  border-left: 2px solid purple;
+  padding-left: 0.5rem;
+}
+
+.skills-wrap:hover {
+  transform: scale(1.05);
 }

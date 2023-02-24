@@ -1,3 +1,5 @@
+import "./Navbar.module.css";
+
 const girlAvatar = (
   <svg
     version="1.1"

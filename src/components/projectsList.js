@@ -9,7 +9,7 @@ export const projectsList = [
     title: "E-commerce page",
     description:
       "A fully functional e-commerce page (except the actual payment proccessing)",
-    technologies: ["React.js", "React Router", "React Redux"],
+    technologies: ["React", "React Router", "Redux"],
     mobileVersion: true,
     tabletVersion: true,
     pageUrl: "https://stefani-josifovska.github.io/audiophile-ecommerce/",
@@ -20,7 +20,7 @@ export const projectsList = [
     title: "Countries page",
     description:
       "A webpage displaying all of the world countries (data gathered from a REST API)",
-    technologies: ["React.js", "React Router", "React Redux"],
+    technologies: ["React", "React Router", "Redux"],
     mobileVersion: true,
     tabletVersion: true,
     pageUrl: "https://stefani-josifovska.github.io/countries-api/",
@@ -31,7 +31,7 @@ export const projectsList = [
     title: "Rock, paper, scissors",
     description:
       "A web app that lets you play the 'Rock, Paper, Scissors' game against the computer.",
-    technologies: ["React.js", "TypeScript", "React Context"],
+    technologies: ["React", "TypeScript", "React Context"],
     mobileVersion: true,
     tabletVersion: true,
     pageUrl: "https://stefani-josifovska.github.io/rock-paper-scissors/",
@@ -39,7 +39,7 @@ export const projectsList = [
     img: rockPaperScissorcImg,
   },
   {
-    title: "E-commerce - single product page",
+    title: "Single product page",
     description:
       "A single product page that lets you browse the product and add it to the cart or delete it.",
     technologies: ["Vanilla JS"],
@@ -52,7 +52,7 @@ export const projectsList = [
   {
     title: "Product landing page",
     description: "A landing page for a company",
-    technologies: ["React.js", "TailwindCSS"],
+    technologies: ["React", "TailwindCSS"],
     mobileVersion: true,
     tabletVersion: true,
     pageUrl: "https://stefani-josifovska.github.io/bookmark-landing-page/",

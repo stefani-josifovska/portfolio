@@ -18,7 +18,11 @@ const Navbar = ({ scrollToAbt, scrollToProj, scrollToCont }) => {
         <li className={`${classes["li-container"]}`}>
           <div>
             {girlAvatar}
-            <a href="#about" onClick={scrollToAbtHandler} className="text-white">
+            <a
+              href="#about"
+              onClick={scrollToAbtHandler}
+              className="text-white"
+            >
               <div className={classes.about}>About Me</div>
             </a>
           </div>
@@ -26,7 +30,11 @@ const Navbar = ({ scrollToAbt, scrollToProj, scrollToCont }) => {
         <li className={`${classes["li-container"]} `}>
           <div>
             {portfolioAvatar}
-            <a href="#projects" onClick={scrollToProjHandler} className="text-white">
+            <a
+              href="#projects"
+              onClick={scrollToProjHandler}
+              className="text-white"
+            >
               <div className={`${classes.about} ${classes.projects}`}>
                 My Projects
               </div>
@@ -36,7 +44,11 @@ const Navbar = ({ scrollToAbt, scrollToProj, scrollToCont }) => {
         <li className={classes["li-container"]}>
           <div>
             {contactAvatar}
-            <a href="#contact" onClick={scrollToContHandler} className="text-white">
+            <a
+              href="#contact"
+              onClick={scrollToContHandler}
+              className="text-white"
+            >
               <div className={`${classes.about} ${classes.contact}`}>
                 Contact Me
               </div>
@@ -48,6 +60,7 @@ const Navbar = ({ scrollToAbt, scrollToProj, scrollToCont }) => {
         <li>
           <a
             href="https://www.linkedin.com/in/stefanijosifovska/"
+            target="_blank"
             className={classes.linkedin}
           >
             {linkedInAvatar}
@@ -56,6 +69,7 @@ const Navbar = ({ scrollToAbt, scrollToProj, scrollToCont }) => {
         <li>
           <a
             href="https://github.com/stefani-josifovska"
+            target="_blank"
             className={classes.github}
           >
             {githubAvatar}
